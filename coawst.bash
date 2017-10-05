@@ -100,7 +100,7 @@ export   ROMS_APPLICATION=${COAWST_APPLICATION}
 # where all this project's files are kept.
 
 export     MY_ROOT_DIR=/home/gadar/Documents/COAWST
-export     MY_PROJECT_DIR=${MY_ROOT_DIR}
+export     MY_PROJECT_DIR=${MY_ROOT_DIR}/PROJECT
 
 # The path to the user's local current ROMS source code.
 #
